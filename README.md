@@ -1,6 +1,6 @@
 # shortcut-scripts
 
-This is a collection of scripts I have on my Windows 10 laptop.
+This is a collection of scripts I have on my Windows 10 laptop (also works on Windows 11).
 Each Powershell script can be triggered by a keyboard shortcut.
 
 ---
